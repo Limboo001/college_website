@@ -1,2 +1,2 @@
 # college_website
-simplecollege website foe project
+simple college website for project
